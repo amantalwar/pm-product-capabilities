@@ -1,6 +1,6 @@
 # pm-product-capabilities
 
-A Claude Code plugin of 37 product-management skills — the "Product Capabilities" tier of a
+A Claude Code plugin of 37 product-management skills, the "Product Capabilities" tier of a
 larger AI Operating System skills list (Delivery and Transformation tiers are planned as
 follow-up plugins; see [Roadmap](#roadmap)).
 
