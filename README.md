@@ -97,3 +97,6 @@ negotiation, org design, ...) are planned as separate follow-up plugins.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Built by [Aman Talwar](https://amantalwar.com).
+
