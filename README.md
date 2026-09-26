@@ -90,9 +90,9 @@ atomic skills above, with a decision gate between each stage.
 
 ## Roadmap
 
-This repo covers only the Product Capabilities tier. Delivery Capabilities (sprint planning,
-RAID logs, incident management, ...) and Transformation Capabilities (change management,
-negotiation, org design, ...) are planned as separate follow-up plugins.
+This repo covers only the Product Capabilities tier. 
+Other Capabilities (sprint planning, RAID logs, incident management, ...) and 
+Transformation Capabilities (change management, negotiation, org design, ...) are planned as separate follow-up plugins.
 
 ## License
 
